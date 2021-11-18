@@ -12,10 +12,10 @@
 
 | 时间        | 产出                             |
 | ----------- | -------------------------------- |
-| 第一天(WIP) | [day1/README.md](day1/README.md) |
-| 第二天(WIP) | [day2/README.md](day2/README.md) |
-| 第三天(WIP) | [day3/README.md](day3/README.md) |
-| 第四天(WIP) | [day4/README.md](day4/README.md) |
+| 第一天      | [初识泛型](day1/README.md)       |
+<!-- | 第二天(WIP) | [day2/README.md](day2/README.md) | -->
+<!-- | 第三天(WIP) | [day3/README.md](day3/README.md) | -->
+<!-- | 第四天(WIP) | [day4/README.md](day4/README.md) | -->
 | ...         | ...                              |
 
 ## Challenge Writeup
